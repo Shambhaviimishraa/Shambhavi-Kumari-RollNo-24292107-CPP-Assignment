@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+class Student
+{
+  public:
+  string name;
+  int marks;
+};
+
+int main()
+{
+ Student S1;
+ S1.name = "Jiya";
+ S1.marks = 90;
+
+cout<<S1.name<<endl;
+cout<<S1.marks<<endl;
+
+return 0;
+}
+
