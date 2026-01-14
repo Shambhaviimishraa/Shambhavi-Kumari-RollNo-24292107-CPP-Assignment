@@ -8,9 +8,10 @@
 ## Assignment Details
 - Subject: Object Oriented Programming using C++
 - Total Programs: 170
+- Programs Completed: 78/170
 - Language : C++
 
-## Topics Covered
+## Topics 
 - Basic Structure and Data Types
 - Operators and Expressions
 - Control Statements
